@@ -918,3 +918,1229 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1585840199798	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileHlCZk6"
+1585840201570	Marionette	INFO	Listening on port 63346
+1585840201948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585840201973	Marionette	DEBUG	[6442450945] Frame script loaded
+1585840201977	Marionette	DEBUG	[6442450945] Frame script registered
+1585840206995	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585840207399	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585840207583	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585840208194	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585840213430	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840223748	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840243855	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585840244082	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585840244096	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585840244414	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-TTJBzgwc5/
+1585840245157	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-TTJBzgwc5/
+1585840260613	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-TTJBzgwc5/
+1585840261301	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-TTJBzgwc5/
+1585840261316	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-TTJBzgwc5/
+1585840261436	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/neymarjr/
+1585840262144	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/neymarjr/
+1585840267162	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/neymarjr/
+1585840267731	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/neymarjr/
+1585840267736	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/neymarjr/
+1585840267847	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/gui_paraisoo/
+1585840270174	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 4636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585840275419	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585840275881	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585840275906	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585840275953	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585840275980	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 2880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585840276243	Marionette	INFO	Stopped listening on port 63346
+[GPU 6336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585840331103	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilewdPFiC"
+1585840332895	Marionette	INFO	Listening on port 63393
+1585840333211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585840333238	Marionette	DEBUG	[6442450945] Frame script loaded
+1585840333243	Marionette	DEBUG	[6442450945] Frame script registered
+1585840338261	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585840338686	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585840338850	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585840339521	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585840344756	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840355072	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840375172	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585840375397	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585840375412	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585840376073	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840376631	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840392176	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840392828	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840392845	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840392964	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585840393552	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+1585840398680	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/leomessi/
+1585840399290	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/leomessi/
+1585840399297	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/leomessi/
+1585840399397	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585840399854	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+[Parent 1204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 7196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585840403804	Marionette	INFO	Stopped listening on port 63393
+[GPU 6100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585840560938	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilebSKaE8"
+1585840562951	Marionette	INFO	Listening on port 63521
+1585840563041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585840563081	Marionette	DEBUG	[6442450945] Frame script loaded
+1585840563088	Marionette	DEBUG	[6442450945] Frame script registered
+1585840568105	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585840568531	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585840568718	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585840569344	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585840574585	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840584901	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840605010	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585840605246	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585840605277	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585840606019	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840606562	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840622104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840622725	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840622743	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840622875	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585840623460	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585840624864	Marionette	INFO	Stopped listening on port 63521
+[GPU 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585840784407	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilehStTML"
+1585840786129	Marionette	INFO	Listening on port 63672
+1585840786515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585840786541	Marionette	DEBUG	[6442450945] Frame script loaded
+1585840786546	Marionette	DEBUG	[6442450945] Frame script registered
+1585840791563	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585840791999	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585840792176	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585840792905	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585840798138	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840808452	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585840828553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585840828780	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585840828799	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585840829479	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840830034	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840845579	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840846238	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840846258	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585840846367	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585840846906	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+1585840851922	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/leomessi/
+1585840852544	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/leomessi/
+1585840852551	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/leomessi/
+1585840852655	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585840852831	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/leomessi/
+1585840852897	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/leomessi/
+JavaScript error: https://www.instagram.com/static/bundles/profiler/ConsumerLibCommons.js/886044f1850f.js, line 190: NS_ERROR_NOT_INITIALIZED: 
+1585840852903	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+JavaScript error: https://www.instagram.com/static/bundles/profiler/ConsumerLibCommons.js/886044f1850f.js, line 190: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/profiler/ConsumerLibCommons.js/886044f1850f.js, line 190: NS_ERROR_NOT_INITIALIZED: 
+[Child 1112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585840853132	Marionette	INFO	Stopped listening on port 63672
+[GPU 2880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585841025374	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileqa1YT7"
+1585841027262	Marionette	INFO	Listening on port 63839
+1585841027580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585841027611	Marionette	DEBUG	[6442450945] Frame script loaded
+1585841027611	Marionette	DEBUG	[6442450945] Frame script registered
+1585841032629	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585841033079	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585841033250	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585841033853	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585841039098	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841049416	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841069525	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585841069753	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585841069769	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585841070393	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841070999	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841086567	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841087213	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841087232	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841087394	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585841088008	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+[Parent 7236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585841090379	Marionette	INFO	Stopped listening on port 63839
+[GPU 6584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585841315592	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileCyclWp"
+1585841317381	Marionette	INFO	Listening on port 63983
+1585841317697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585841317723	Marionette	DEBUG	[6442450945] Frame script loaded
+1585841317727	Marionette	DEBUG	[6442450945] Frame script registered
+1585841322746	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585841323304	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585841323519	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585841324153	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585841329389	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841339727	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841359856	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585841360117	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585841360137	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585841360777	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841361321	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841376867	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841377663	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841377684	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841377801	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585841378422	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 3140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585841379370	Marionette	INFO	Stopped listening on port 63983
+[GPU 6212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585841406830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilee14Ypc"
+1585841408534	Marionette	INFO	Listening on port 64096
+1585841409012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585841409037	Marionette	DEBUG	[6442450945] Frame script loaded
+1585841409042	Marionette	DEBUG	[6442450945] Frame script registered
+1585841414060	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585841414470	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585841414659	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585841415295	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585841420529	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841430845	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841450942	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585841451178	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585841451214	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585841451926	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841452585	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841468073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841468966	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841468986	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841469103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585841469661	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+[Parent 8352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585841471179	Marionette	INFO	Stopped listening on port 64096
+[GPU 944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585841631199	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileFVErLu"
+1585841633041	Marionette	INFO	Listening on port 64246
+1585841633348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585841633371	Marionette	DEBUG	[6442450945] Frame script loaded
+1585841633376	Marionette	DEBUG	[6442450945] Frame script registered
+1585841638394	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585841639017	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585841639204	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585841639797	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585841645022	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841655361	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841675505	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585841675735	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585841675767	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585841676388	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841676940	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841692533	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841693158	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841693171	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841693292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585841693872	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+[Parent 5976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585841702468	Marionette	INFO	Stopped listening on port 64246
+[GPU 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585841728668	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileV2SaWF"
+1585841730479	Marionette	INFO	Listening on port 64293
+1585841730808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585841730834	Marionette	DEBUG	[6442450945] Frame script loaded
+1585841730838	Marionette	DEBUG	[6442450945] Frame script registered
+1585841735858	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585841736395	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585841736600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585841737233	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585841742477	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841752804	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841772948	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585841773690	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585841773723	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585841774491	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841775090	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841790577	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841791266	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841791284	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841791401	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585841791962	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+1585841802055	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/leomessi/
+1585841802757	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/leomessi/
+1585841802765	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/leomessi/
+1585841802898	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/leomessi/
+1585841803387	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/leomessi/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3900, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 3900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585841806609	Marionette	INFO	Stopped listening on port 64293
+[GPU 4636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585841906074	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile5b0d52"
+1585841907939	Marionette	INFO	Listening on port 64345
+1585841908244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585841908273	Marionette	DEBUG	[6442450945] Frame script loaded
+1585841908278	Marionette	DEBUG	[6442450945] Frame script registered
+1585841913288	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585841913745	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585841913950	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585841914590	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585841919828	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841930171	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585841950315	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585841950581	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585841950614	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585841951268	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841951854	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cl3OOCk_M/
+1585841967626	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 8272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585842013879	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 8272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585842032492	Marionette	INFO	Stopped listening on port 64345
+[GPU 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585842181042	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileWVBzFZ"
+1585842182850	Marionette	INFO	Listening on port 64394
+1585842183150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585842183183	Marionette	DEBUG	[6442450945] Frame script loaded
+1585842183187	Marionette	DEBUG	[6442450945] Frame script registered
+1585842184349	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+[Child 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585842184683	Marionette	INFO	Stopped listening on port 64394
+[GPU 2148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585842289745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile097sXL"
+1585842291495	Marionette	INFO	Listening on port 64453
+1585842291881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585842291907	Marionette	DEBUG	[6442450945] Frame script loaded
+1585842291911	Marionette	DEBUG	[6442450945] Frame script registered
+1585842296929	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585842297362	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585842297569	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585842298214	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585842303454	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585842313781	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585842333952	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585842334214	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585842334250	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585842335034	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-b6f7_gooQ/
+1585842335541	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-b6f7_gooQ/
+1585842346276	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 3720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585842360464	Marionette	INFO	Stopped listening on port 64453
+[GPU 9000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585843129015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilepevZKy"
+1585843130823	Marionette	INFO	Listening on port 64666
+1585843131121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585843131149	Marionette	DEBUG	[6442450945] Frame script loaded
+1585843131153	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 7540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585843132717	Marionette	INFO	Stopped listening on port 64666
+[GPU 7900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585843170562	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile7fI2FK"
+1585843172362	Marionette	INFO	Listening on port 64697
+1585843172666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585843172692	Marionette	DEBUG	[6442450945] Frame script loaded
+1585843172693	Marionette	DEBUG	[6442450945] Frame script registered
+1585843177711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585843178165	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585843178378	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585843178982	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585843184231	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585843194552	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585843214659	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585843214899	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585843214916	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585843215434	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cAhaYA8vt/
+1585843216266	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cAhaYA8vt/
+[Child 3848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585843227853	Marionette	INFO	Stopped listening on port 64697
+[GPU 6252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585843264899	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileCYdmuV"
+1585843266641	Marionette	INFO	Listening on port 64737
+1585843267009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585843267034	Marionette	DEBUG	[6442450945] Frame script loaded
+1585843267039	Marionette	DEBUG	[6442450945] Frame script registered
+1585843272055	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585843272533	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585843272734	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585843273449	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585843278682	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585843288998	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585843309102	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585843309356	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585843309367	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585843310634	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B-cAhaYA8vt/
+1585843311439	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B-cAhaYA8vt/
+1585843322167	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 3312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585843376367	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 3312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 3980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585843446513	Marionette	INFO	Stopped listening on port 64737
+[GPU 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585850459342	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilec3WCQZ"
+1585850461206	Marionette	INFO	Listening on port 64920
+1585850461517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585850461545	Marionette	DEBUG	[6442450945] Frame script loaded
+1585850461552	Marionette	DEBUG	[6442450945] Frame script registered
+1585850466565	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585850467001	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585850467203	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585850467959	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585850473199	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585850483526	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585850503669	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585850503898	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585850503914	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585850504429	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B91O5LYIbHN/
+1585850505211	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B91O5LYIbHN/
+1585850515943	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 6552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585850533102	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 7228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 6552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585850545110	Marionette	INFO	Stopped listening on port 64920
+[GPU 5432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863492874	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile0CAfTN"
+1585863494743	Marionette	INFO	Listening on port 55834
+1585863495007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585863495036	Marionette	DEBUG	[6442450945] Frame script loaded
+1585863495041	Marionette	DEBUG	[6442450945] Frame script registered
+1585863500058	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585863500459	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585863500685	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585863501372	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585863506608	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863516920	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863537058	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585863537292	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585863537309	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585863537646	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9guJzoAfM5/
+1585863538224	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9guJzoAfM5/
+[Child 6740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585863548181	Marionette	INFO	Stopped listening on port 55834
+[GPU 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863579908	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileycDXQE"
+1585863581806	Marionette	INFO	Listening on port 55873
+1585863582017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585863582053	Marionette	DEBUG	[6442450945] Frame script loaded
+1585863582055	Marionette	DEBUG	[6442450945] Frame script registered
+1585863587078	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585863587476	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585863587782	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585863588783	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585863594017	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863604330	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863624436	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585863624709	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585863624724	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585863625040	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585863625640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585863636368	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863655217	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585863661731	Marionette	INFO	Stopped listening on port 55873
+[GPU 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863700890	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile551tw0"
+1585863702685	Marionette	INFO	Listening on port 55919
+1585863703029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585863703062	Marionette	DEBUG	[6442450945] Frame script loaded
+1585863703068	Marionette	DEBUG	[6442450945] Frame script registered
+1585863708089	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585863708471	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585863708721	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585863709486	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585863714721	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863725034	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863745148	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585863745397	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585863745427	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585863745582	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585863746348	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585863757081	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585863775895	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 4456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585863789191	Marionette	INFO	Stopped listening on port 55919
+[GPU 9044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863886433	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileM53s3v"
+1585863888316	Marionette	INFO	Listening on port 55961
+1585863888574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585863888602	Marionette	DEBUG	[6442450945] Frame script loaded
+1585863888602	Marionette	DEBUG	[6442450945] Frame script registered
+1585863893622	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585863893997	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585863894247	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585863894990	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585863900223	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863910539	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863930641	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585863931140	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585863931154	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585863931266	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585863932058	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585863942887	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585863961792	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 6492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585863969547	Marionette	INFO	Stopped listening on port 55961
+[GPU 6580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864098715	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileepPpHs"
+1585864100536	Marionette	INFO	Listening on port 56013
+1585864100877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864100903	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864100909	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 8388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864103736	Marionette	INFO	Stopped listening on port 56013
+[GPU 2576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864122882	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilenzpZSp"
+1585864124734	Marionette	INFO	Listening on port 56042
+1585864125006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864125033	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864125038	Marionette	DEBUG	[6442450945] Frame script registered
+1585864130056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585864130562	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585864131284	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585864132241	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585864137481	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864147781	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864167884	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585864168127	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585864168162	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585864168826	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585864169387	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585864180121	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 8308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864197612	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864210884	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 8064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864219436	Marionette	INFO	Stopped listening on port 56042
+[GPU 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864260068	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileGrjiPA"
+1585864261896	Marionette	INFO	Listening on port 56083
+1585864262216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864262246	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864262250	Marionette	DEBUG	[6442450945] Frame script registered
+1585864267268	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585864267708	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585864267909	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585864268689	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585864273917	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864284235	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864304339	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585864304576	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585864304591	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585864304925	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585864305444	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585864316186	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 3168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864371088	Marionette	INFO	Stopped listening on port 56083
+[GPU 4668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864424763	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileEjlsU8"
+1585864426778	Marionette	INFO	Listening on port 56126
+1585864426864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864426907	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864426925	Marionette	DEBUG	[6442450945] Frame script registered
+1585864431943	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585864432455	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585864432644	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585864433363	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585864438598	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864448907	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864469033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585864469303	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585864469318	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585864469651	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585864470168	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585864481001	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 3896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864510733	Marionette	INFO	Stopped listening on port 56126
+[GPU 9080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864547393	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile6aILd2"
+1585864549164	Marionette	INFO	Listening on port 56169
+1585864549500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864549526	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864549531	Marionette	DEBUG	[6442450945] Frame script registered
+1585864554549	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585864554950	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585864555487	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585864556164	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585864561393	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864571708	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864591827	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585864592073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585864592110	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585864592248	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585864593013	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585864603770	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 7008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864775957	Marionette	INFO	Stopped listening on port 56169
+[GPU 8440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864808277	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileZq3rvw"
+1585864810197	Marionette	INFO	Listening on port 56225
+1585864810407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864810440	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864810445	Marionette	DEBUG	[6442450945] Frame script registered
+1585864811544	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+[Child 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864812127	Marionette	INFO	Stopped listening on port 56225
+[GPU 5908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864822051	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilesLXaEi"
+1585864823968	Marionette	INFO	Listening on port 56252
+1585864824164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864824201	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864824205	Marionette	DEBUG	[6442450945] Frame script registered
+1585864829227	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585864829615	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585864829850	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585864830598	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585864835831	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864846146	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864866247	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585864866494	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585864866510	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585864866843	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585864867411	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+[Parent 8064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864894934	Marionette	INFO	Stopped listening on port 56252
+[GPU 7088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864922352	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileWDSg2n"
+1585864924353	Marionette	INFO	Listening on port 56296
+1585864924540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585864924570	Marionette	DEBUG	[6442450945] Frame script loaded
+1585864924570	Marionette	DEBUG	[6442450945] Frame script registered
+1585864929589	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585864929936	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585864930182	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585864930964	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585864936199	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864946510	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585864966612	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585864966843	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585864966872	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585864967217	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585864967836	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585864978579	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585864998149	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865007722	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865013695	Marionette	INFO	Stopped listening on port 56296
+[GPU 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865050445	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile5QJTcu"
+1585865052360	Marionette	INFO	Listening on port 56339
+1585865052556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865052583	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865052584	Marionette	DEBUG	[6442450945] Frame script registered
+1585865057611	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865057970	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865058192	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865058871	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865064108	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865074417	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865094541	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865094774	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865094790	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865095120	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865095612	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865106363	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 3984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865126811	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865140641	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 5512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865147759	Marionette	INFO	Stopped listening on port 56339
+[GPU 2844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865173379	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile0A2aPl"
+1585865175414	Marionette	INFO	Listening on port 56381
+1585865175496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865175525	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865175530	Marionette	DEBUG	[6442450945] Frame script registered
+1585865180545	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865180934	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865181180	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865181924	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865187179	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865197520	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865217659	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865217915	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865217956	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865218104	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865218858	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865229641	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865270076	Marionette	INFO	Stopped listening on port 56381
+[GPU 5376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865342619	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileOj4Ed9"
+1585865344563	Marionette	INFO	Listening on port 56427
+1585865344817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865344846	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865344850	Marionette	DEBUG	[6442450945] Frame script registered
+1585865349869	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865350228	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865350492	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865351216	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865356451	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865366764	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865386868	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865387106	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865387123	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865387466	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865387956	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865398738	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 1988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865416151	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865427040	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865443922	Marionette	INFO	Stopped listening on port 56427
+[GPU 5528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865479632	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile3ouFHH"
+1585865481458	Marionette	INFO	Listening on port 56472
+1585865481745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865481773	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865481774	Marionette	DEBUG	[6442450945] Frame script registered
+1585865486792	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865487310	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865487550	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865488302	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865493545	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865503868	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865523979	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865524213	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865524232	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865524392	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865525232	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865535962	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865558855	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865570318	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865601322	Marionette	INFO	Stopped listening on port 56472
+[GPU 5376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865657308	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileg7NfpS"
+1585865659273	Marionette	INFO	Listening on port 56518
+1585865659414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865659451	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865659455	Marionette	DEBUG	[6442450945] Frame script registered
+1585865664472	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865665853	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865666074	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865666960	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865672201	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865682490	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865702610	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865702875	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865702908	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865703265	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865703821	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865714603	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 4588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865723447	Marionette	INFO	Stopped listening on port 56518
+[GPU 5932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865747644	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofilevPuA36"
+1585865749518	Marionette	INFO	Listening on port 56558
+1585865749757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865749791	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865749796	Marionette	DEBUG	[6442450945] Frame script registered
+1585865754812	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865755186	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865755487	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865756198	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865761432	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865771756	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865791877	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865792126	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865792151	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865792321	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865793095	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865803884	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865822620	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865837787	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865848010	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865865957	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865879953	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585865901544	Marionette	INFO	Stopped listening on port 56558
+[GPU 2164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585865941179	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileY83kXL"
+1585865943056	Marionette	INFO	Listening on port 56604
+1585865943351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585865943387	Marionette	DEBUG	[6442450945] Frame script loaded
+1585865943393	Marionette	DEBUG	[6442450945] Frame script registered
+1585865948409	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585865948787	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585865949035	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585865949806	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585865955037	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865965351	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585865985453	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585865985690	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585865985704	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585865986042	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585865986662	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585865997419	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866020309	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866034211	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866044435	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866065517	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866079077	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866089298	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866109791	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866120324	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 5564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585866139298	Marionette	INFO	Stopped listening on port 56604
+[GPU 8096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585866172380	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileyn5Zlg"
+1585866174219	Marionette	INFO	Listening on port 56648
+1585866174494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585866174528	Marionette	DEBUG	[6442450945] Frame script loaded
+1585866174534	Marionette	DEBUG	[6442450945] Frame script registered
+1585866179553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585866179915	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585866180135	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585866180826	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585866186065	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866196381	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866216517	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585866216778	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585866216792	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585866217122	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585866217659	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585866228383	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 4280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585866252424	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866272225	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866286499	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866296722	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866313349	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866332917	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866346336	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 4280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585866363230	Marionette	INFO	Stopped listening on port 56648
+[GPU 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585866455331	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofileKrx876"
+1585866457228	Marionette	INFO	Listening on port 56699
+1585866457438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585866457466	Marionette	DEBUG	[6442450945] Frame script loaded
+1585866457468	Marionette	DEBUG	[6442450945] Frame script registered
+1585866462487	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585866463009	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585866463232	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585866464108	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585866469346	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866479631	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866499753	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585866500005	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585866500019	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585866500391	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B9NfOgnHViw/
+1585866500876	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/p/B9NfOgnHViw/
+1585866511602	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866532402	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866547572	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866557795	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866577373	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866586968	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585866597186	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 7652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585866598214	Marionette	INFO	Stopped listening on port 56699
+[GPU 8788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
