@@ -7,32 +7,32 @@ class Instagram:
     def __init__(self, nomeUsuario, senha):
         self.nomeUsuario = nomeUsuario ## username
         self.senha = senha ## passwod
-        self.driver = webdriver.Firefox(executable_path="C:\\Users\\Matheus\\Desktop\\insta\\geckodriver.exe")
+        self.driver = webdriver.Firefox(executable_path="local do geckodriver.exe")
 
     def login(self):
+        time.sleep(5)
         driver = self.driver
         driver.get("https://www.instagram.com") ##chama o site requerido
 
         time.sleep(5)
 
-        ## a href="/accounts/Login/?source=auth_switcher" -> notação HTML
-
-        ## botao_login = driver.find_element_by_xpath("a[@href='/accounts/Login/?source=auth_switcher']")
-        ## botao_login.click()
-
         form_usuario = driver.find_element_by_xpath('//input[@name="username"]') ## PROCURAR CAMPO DO FORMULÁRIO DE USER
         form_usuario.click() ##CLICAR NO CAMPO SELECIONADO
+        time.sleep(5)
         form_usuario.clear() ##Limpar campo
         form_usuario.send_keys(self.nomeUsuario) ## preencher campo
+        time.sleep(5)
 
         form_senha = driver.find_element_by_xpath("//input[@name='password']") ## PROCURAR CAMPO DO FORMULÁRIO DE SENHA
         form_senha.click()
+        time.sleep(5)
         form_senha.clear()
         form_senha.send_keys(self.senha)
-        time.sleep(3)
+        time.sleep(5)
         form_senha.send_keys(Keys.RETURN) ## SIMULA O ENTER
         time.sleep(5)
         self.comentar('calistenia')
+        time.sleep(5)
 
 
     @staticmethod
@@ -45,6 +45,7 @@ class Instagram:
 
         ##procura a # que queremos pesquisar
         driver = self.driver
+        time.sleep(5)
         driver.get("https://www.instagram.com/explore/tags/"+ hashtag +"/")
 
         for i in range(1,3):
@@ -52,8 +53,10 @@ class Instagram:
             time.sleep(5)
 
         links = driver.find_elements_by_tag_name('a') ## procura todos os elementos a
+        time.sleep(5)
         link_fotos = [elem.get_attribute('href') for elem in links] ## recupera elementos uteis    
         [href for href in link_fotos if hashtag in href] ## nova filtragem
+        time.sleep(5)
 
         print(hashtag + ' fotos ' + str(len(link_fotos)))
 
@@ -80,5 +83,5 @@ class Instagram:
 
 
 
-bot1 = Instagram('dixx_vivitheusz','crocodilosazuis')
+bot1 = Instagram('seu_user','sua_senha')
 bot1.login()

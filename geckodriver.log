@@ -878,3 +878,43 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1585837929049	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Matheus\\AppData\\Local\\Temp\\rust_mozprofile6OgvQj"
+1585837930926	Marionette	INFO	Listening on port 62908
+1585837931229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585837931262	Marionette	DEBUG	[6442450945] Frame script loaded
+1585837931266	Marionette	DEBUG	[6442450945] Frame script registered
+1585837931285	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1585837931832	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1585837932030	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1585837932669	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1585837937913	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585837938225	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1585837946344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/
+1585837947935	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/
+1585837947949	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/
+1585837948056	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/tags/calistenia/
+1585837949118	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/explore/tags/calistenia/
+1585837959659	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/explore/tags/calistenia/
+1585837961269	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/explore/tags/calistenia/
+1585837961274	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/explore/tags/calistenia/
+1585837961389	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/tags/calisthenicsworkout/
+1585837962362	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/explore/tags/calisthenicsworkout/
+1585837967490	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.instagram.com/explore/tags/calisthenicsworkout/
+1585837969383	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.instagram.com/explore/tags/calisthenicsworkout/
+1585837969389	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.instagram.com/explore/tags/calisthenicsworkout/
+1585837969576	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/tags/muscleups/
+1585837970801	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/explore/tags/muscleups/
+[Parent 6012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 1468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1585837972398	Marionette	INFO	Stopped listening on port 62908
+[GPU 6428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
